@@ -2,9 +2,9 @@
 
 ## toc
 
-* [link a](#head111)
+* [link a](#here-be-ar-heading)
 
 
 ## Posts
 
-### <a name="head111"></a>Here be ar heading
+### Here be ar heading
