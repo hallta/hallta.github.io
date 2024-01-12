@@ -1,0 +1,6 @@
+
+# https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml
+
+theme: jekyll-theme-Cayman
+
+exclude: ["env", ".gitignore", "README.md", "CNAME"]
