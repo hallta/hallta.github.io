@@ -1,6 +1,17 @@
 
-# https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml
+# https://github.com/thundergolfer/thundergolfer.github.io/blob/main/_config.yml 
 
-theme: jekyll-theme-Cayman
+# theme: jekyll-theme-Cayman
+
+# Site settings
+title: Trevor Hall [hallta]
+author: Trevor Hall
+description: "It's all nonsense"
+baseurl: ""
+url: "https://hallta.com"
+date_format: "%b %-d, %Y"
 
 exclude: ["env", ".gitignore", "README.md", "CNAME"]
+
+# Google services
+google_tag_manager: G-7Y6DQFCVZT
