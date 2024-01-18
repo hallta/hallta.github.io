@@ -1,3 +1,8 @@
+---
+layout: default
+tags: home
+---
+
 # heading
 
 ## toc
